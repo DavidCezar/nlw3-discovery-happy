@@ -49,6 +49,7 @@ Este projeto, 100% responsivo, utilizou das seguintes tecnologias para criação
 - [SQLite](https://www.sqlite.org/index.html "Acesso ao site do SQLite")
 - [Handlebars](https://handlebarsjs.com/ "Acesso ao site do Handlebars")
 - [Nodemon](https://nodemon.io/ "Acesso ao site do Nodemon")
+- [Leaflet](https://leafletjs.com/ "Acesso ao site da biblioteca Leaflet")
 
 <br>
 
